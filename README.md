@@ -1,5 +1,8 @@
 # PHP-Login-Example
 
+
+[![Build Status](https://travis-ci.org/moraisandre/PHP-Login-Example.svg)](https://travis-ci.org/moraisandre/PHP-Login-Example)
+
 A simple PHP + MySQL login example
 
 ### PHP development environment
